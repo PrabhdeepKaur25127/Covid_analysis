@@ -1,4 +1,4 @@
-# Covid_analysis
+# Covid_analysis_by_Prabhdeep Kaur
 <b><u>TAKE HOME EXERCISE:</u></b><br>
 THE#1---------DONE<br>
 THE#2---------DONE-------UPLOADED CSV FILES IN JUPYTER AND GITHUB<br><br>
