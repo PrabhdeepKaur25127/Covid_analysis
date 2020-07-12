@@ -15,7 +15,7 @@ MIP----------DONE--------ATTACHED IMAGE PROOF, PPT SLIDE<br>
 5 STAR-------DONE--------ATTACHED IMAGE PROOF, PPT SLIDE<br>
 
 <b><u>MAJOR PROJECT:</u></b><br>
-A------------DONE--------ATTACHED IMAGE PROOF, PPT SLIDE<br>
-B------------DONE--------ATTACHED IMAGE PROOF, PPT SLIDE<br>
-C------------DONE--------ATTACHED IMAGE PROOF, PPT SLIDE<br>
+A------------DONE--------ATTACHED IMAGE PROOF<br>
+B------------DONE--------ATTACHED IMAGE PROOF<br>
+C------------DONE<br>
 
